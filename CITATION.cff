@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite it using the metadata in this file."
+type: software
+title: "COPD-AKI-Trajectory: Code for early creatinine-defined AKI trajectories in critically ill patients with COPD"
+authors:
+  - family-names: Wang
+    given-names: Zeqiang
+  - family-names: Liu
+    given-names: Hanying
+  - family-names: Tan
+    given-names: Jianlong
+# Jianlong Tan is the corresponding author, as specified by the project owner.
+repository-code: "https://github.com/wzq-pccm/COPD-AKI-Trajectory"
+# Add DOI only after that identifier is confirmed.
